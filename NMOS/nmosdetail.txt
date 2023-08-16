@@ -1,0 +1,1 @@
+An N-channel metal-oxide semiconductor (NMOS) is a microelectronic circuit used for logic and memory chips and in complementary metal-oxide semiconductor (CMOS) design. NMOS transistors are faster than the P-channel metal-oxide semiconductor (PMOS) counterpart, and more of them can be put on a single chip.
