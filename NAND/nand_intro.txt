@@ -1,0 +1,1 @@
+NAND Gate is called Universal Gates because all the other gates (NOT, AND, OR and NOR)can be created by using this gate.
