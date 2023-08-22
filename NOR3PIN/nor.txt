@@ -1,0 +1,1 @@
+The three-input NOR3 gate uses three p-channel transistors in series between VCC and gate-output, and the complementary circuit of a parallel-connection of three n-channel transistors between GND and gate-output.
