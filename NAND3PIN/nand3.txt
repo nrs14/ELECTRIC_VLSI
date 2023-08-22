@@ -1,0 +1,1 @@
+ three 3-input NAND gates. Because each gate has three inputs and it has three gates inside, this chip is usually called a Triple 3-Input NAND Gate
