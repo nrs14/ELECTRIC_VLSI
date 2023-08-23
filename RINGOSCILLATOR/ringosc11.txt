@@ -1,0 +1,1 @@
+The ring oscillator is a member of the class of time-delay oscillators. A time-delay oscillator consists of an inverting amplifier with a delay element between the amplifier output and its input. The amplifier must have a gain greater than 1 at the intended oscillation frequency.
