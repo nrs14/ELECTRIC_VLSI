@@ -1,0 +1,1 @@
+A logical statement that results in a Boolean value, either be True or False, is a Boolean expression. Sometimes, synonyms are used to express the statement such as 'Yes' for 'True' and 'No' for 'False'. Also, 1 and 0 are used for digital circuits for True and False, respectively.
